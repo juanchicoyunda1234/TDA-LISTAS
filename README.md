@@ -1,6 +1,6 @@
 # Listas Circulares - Estructura de Datos (UTA, Nivel III)
 
-Deber individual de **Juan Carlos Chico**: cinco ejercicios sobre listas
+Deber **Juan Carlos Chico**: cinco ejercicios sobre listas
 simplemente enlazadas circulares, en Java. Un solo programa y un solo
 punto de entrada (`app.Main`), con un menu principal que abre un submenu
 interactivo por ejercicio.
